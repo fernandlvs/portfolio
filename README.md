@@ -24,7 +24,7 @@ Este é o meu portfólio pessoal, desenvolvido com **HTML, CSS e JavaScript**, p
 ---
 
 ## 📂 Estrutura do Projeto  
-/
+
 ├── index.html ##Página principal <br>
 ├── style.css ##Estilos do site <br>
 ├── script.js ##Lógica de interatividade <br>
